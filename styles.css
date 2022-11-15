@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(238, 162, 22, 0.781);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.watch-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: antiquewhite;
+}
+
+span {
+  color: antiquewhite;
+  font-size: 30px;
+  /* margin-left: 50%; */
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  height: 30px;
+  width: 75px;
+}
